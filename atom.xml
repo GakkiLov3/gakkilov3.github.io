@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://gakkilov3.github.io</id>
+    <title>三火的Gaming Life</title>
+    <updated>2023-09-07T15:45:44.374Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://gakkilov3.github.io"/>
+    <link rel="self" href="https://gakkilov3.github.io/atom.xml"/>
+    <subtitle>我想让他们有机会去试试</subtitle>
+    <logo>https://gakkilov3.github.io/images/avatar.png</logo>
+    <icon>https://gakkilov3.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 三火的Gaming Life</rights>
+</feed>
